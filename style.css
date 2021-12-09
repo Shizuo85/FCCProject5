@@ -31,6 +31,7 @@ body {
     margin: 0;
     padding: 1.5rem;
     color: #f0f0f0;
+    transition: background-color 0.5s ease-out;
 }
 #inner-nav p:hover{
     background-color: #45567d;
